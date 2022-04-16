@@ -1,3 +1,3 @@
 # UdemyDeepLeaarning
-#Data Processing//
-#Logistic Regression Implementation
+#Data Processing\
+#Logistic Regression Implementation\
