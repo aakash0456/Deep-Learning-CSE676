@@ -1,4 +1,4 @@
-# UdemyDeepLearning
+# Deep Learning
 #Data Processing\
 #Logistic Regression Implementation\
 #ANN Implementation\
